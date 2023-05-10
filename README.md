@@ -97,25 +97,107 @@ Go to "Teams" tab > Select "Add New Team".
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/0f3bf2f1-f95d-4625-aaad-66a23e4e196f" height="80%" width="80%" alt="Create"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Type "Level II Support" in the "Name" tab and select "Create Team".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/9f56e325-c8b2-43c5-9f79-a4002aca7cc1" height="80%" width="80%" alt="User"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Now, head to "Settings" > Users > Registration Required: Unchecked > Registration Method: Public > Select Save Changes.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/97af1f1c-407c-4e23-82de-700f5e7bed2f" height="80%" width="80%" alt="Agents"/>
+</p>
+<p>
+Go to "Agents" tab > Select "Add New Agent".
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/cb57a6b6-99ab-4a19-8f9e-9200ee7806d0" height="80%" width="80%" alt="New Agents"/>
+</p>
+<p>
+ Create these accounts in order:
+ <ol>
+  <li>Name: Jane Doe</li>
+  <li>Email Address: jane.doe@osticket.com</li>
+  <li>Username: jane.doe</li>
+  <li>Set the password to "Password2"</li>
+  <li>Go to Access and set the department to SysAdmins and select Supreme Admin for the role.</li>
+  <li>Go to the teams section and select Level II Support, then create.</li>
+</ol>
+Repeat these steps to create a new account with the name "John Doe"
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/6300efca-8681-4ba8-b749-b41b1fcc0be2" height="80%" width="80%" alt="New User"/>
+</p>
+<p>
+Now, Select Agent Panel > Users > Add User
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/c3838a86-bc42-4dc3-a3c5-72a12b43b6e8" height="80%" width="80%" alt="Create"/>
+</p>
+<p>
+Create these accounts:
+ <ul>
+  <li>Email Address: ken@osticket.com</li>
+  <li>Full Name: Ken Ken</li>
+  <li>Email Address: karen@osticket.com</li>
+  <li>Full Name: Karen Karen</li>
+</ul>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/027b854f-2d9b-4892-8cf6-1e6cdf208b6b" height="80%" width="80%" alt="SLA"/>
+</p>
+<p>
+Head back to "Admin Panel" > Manage > SLA > Select "Add New SLA Plan".
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/454aa81d-0ca1-458e-bf04-41f2bd9fd6ae" height="80%" width="80%" alt="SLA Plan"/>
+</p>
+<p>
+Add these three SLA's
+ <ul>
+  <li>SEV-A with a grace period of 1 hour, and a 24/7 schedule</li>
+  <li>SEV-B with a grace period of 4 hours, and a 24/7 schedule</li>
+  <li>SEV-C with a grace period of 8 hours, and a Mon-Fri business hours schedule</li>
+</ul>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/a5a2688f-28a9-4b20-9d3c-9d3c2eb9f3f1" height="80%" width="80%" alt="Help Topics"/>
+</p>
+<p>
+Go to Manage > Help Topics > Select "Add New Help Topic"
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/49c49ffe-59ee-4e92-a1a6-33ae7a311e94" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add these four Help Topics:
+ <ul>
+  <li>Business Critical Outage</li>
+  <li>Personal Computer Issues</li>
+  <li>Equipment Request</li>
+  <li>Password Reset</li>
+</ul>
 </p>
 <br />
