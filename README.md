@@ -76,23 +76,23 @@ When adding the role, name the role "Supreme Admin" and allow all permissions. O
 <img src="https://github.com/sebbec31/post-install-config/assets/125160491/018778ed-bdcc-4d2d-960e-8caaf082d2de" height="80%" width="80%" alt="Department"/>
 </p>
 <p>
-Now go to the Deparments tab and select "Add New Department.
+Now go to the Deparments tab and select "Add New Department".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/d83fba74-f82f-4e4a-879d-a4d44eb4b19c" height="80%" width="80%" alt="Sys Admin"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Input the name "System Administrators" and select "Create Dept".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/post-install-config/assets/125160491/6a7adad3-8417-4245-a1bc-5e39a5a4edee" height="80%" width="80%" alt="Team"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "Teams" tab > Select "Add New Team".
 </p>
 <br />
 
